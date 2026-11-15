@@ -1,0 +1,8 @@
+# personal data
+data.json
+data.json.bak
+data.json.tmp
+music/*
+!music/.gitkeep
+.claude/
+node_modules/
